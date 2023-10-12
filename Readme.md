@@ -1,0 +1,1 @@
+Este projeto demonstra como fazer uma componente visual para aplicações web baseadas na linguagem PHP.
